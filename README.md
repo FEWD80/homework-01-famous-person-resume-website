@@ -1,4 +1,4 @@
-# FEWD80 Homework #1 - Resume Website for famous person of your choice
+# FEWD80 Homework #1 - Resume Website for a famous person of your choice
 
 ## Directions
 
@@ -8,7 +8,8 @@ The website should meet the following criteria:
 
 - Website should have two (2) pages
 
- 1) A bio page - short bio
+ 1) A bio / about me page
+ 
  2) Experience / Interests page
 
 - Visitors to your website should be able to easily navigate to each page via a link
