@@ -1,0 +1,62 @@
+body {
+	
+	background-color: #9BB4CE;
+	color: black;
+	text-align: center;
+	font-family: helvetica;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+
+}
+
+img {
+	width: 300px;
+}
+
+nav {
+	margin: 50px
+}
+
+a {
+	font-weight: 700;
+	color: white;	
+}
+
+nav a {
+	padding: 20px
+
+}
+
+h1 {
+	color: white;
+	font-family: 'Delius Unicase', cursive;
+}
+
+h3 {
+	
+	margin: 20px 50px 10px 50px;
+	color: #9BB4CE;
+	font-family: 'Delius Unicase', cursive;
+}
+
+ul {
+
+	list-style: none;
+}
+
+li {
+	line-height: 200%;
+}
+
+section img {
+	width: 300px;
+	display: inline-block;
+}
+
+section {
+ 
+	background-color: white;
+	color: black;
+	padding: 50px;
+	margin: 50px
+}
