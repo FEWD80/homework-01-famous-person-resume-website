@@ -11,10 +11,11 @@ body {
 
 img {
 	width: 300px;
+	margin: 20px;
 }
 
 nav {
-	margin: 50px
+	margin: 30px
 }
 
 a {
@@ -41,7 +42,8 @@ h3 {
 
 ul {
 
-	list-style: none;
+	list-style: square;
+	text-align: left;
 }
 
 li {
