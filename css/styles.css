@@ -1,0 +1,110 @@
+body.page1 {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top: 30px;
+	border-bottom: 5px solid #ead617;
+	margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+
+body.page2 {
+	font-family: sans-serif;
+	font-size: 18px;
+	border-bottom: 5px solid #ead617;
+	margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+
+nav.page1 {
+	text-align: right;	
+	border-top:#6dd46d;
+	font-size: 12px;
+	padding-right: 70px;
+}
+
+nav.page2 {
+	text-align: right;	
+	border-top:#6dd46d;
+	font-size: 12px;
+	padding-right: 70px;
+}
+
+/* unvisited link */
+a:link {
+    color: #279a27;
+}
+
+/* visited link */
+a:visited {
+    color: #6dd46d;
+}
+
+h1.page1 {
+	text-align: left;
+	margin: 50px;
+	color: #279a27;
+}
+
+h1.page2 {
+	text-align: left;
+	color: #279a27;
+}
+
+h2 {
+	text-align: left;	
+	font-size: 16px;
+	color: #279a27;
+	padding-left: 70px;
+}
+
+hr {
+    width: 80%;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ead617;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+p {
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+
+img.page1 {
+	float: right;
+    margin: 0 0 10px 10px;
+	height: 200px;
+	width: 200px;
+	padding: 1px;
+   border:3px solid #ead617;
+}
+
+img.no_border {
+	float: left;
+    margin: 0 0 0px 0px;
+	height: 200px;
+	width: 200px;
+	padding: 0px;
+   border:0px solid #ead617;
+}
+
+img.page2_2 {
+	float: right;
+	height: 800px;
+	width: 800px;
+}
+
+img.page2_3 {
+	float: center;
+	height: 800px;
+	width: 800px;
+}
+
+ul {
+	padding-left: 70px;
+	list-style-image: url(‘/images/cartoon_christmas_tree.gif’);
+}
+
+
