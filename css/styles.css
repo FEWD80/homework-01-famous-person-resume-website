@@ -47,8 +47,12 @@ nav li a:visited {
   color: rgb(51, 52, 48);
 }
 
-.active-link {
+nav li a.active-link {
   font-style: italic;
+}
+
+nav li a:hover {
+  color: rgb(255, 255, 255);
 }
 
 /* header style ends */
@@ -138,3 +142,5 @@ main .projects:nth-child(n+4) {
 main .projects:last-child {
   margin: 20px 0;
 }
+
+/* End of styling */
