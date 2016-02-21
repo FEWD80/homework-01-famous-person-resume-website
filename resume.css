@@ -1,0 +1,98 @@
+body {
+	padding: 40px 150px 0px 150px;
+	font-family: sans-serif;
+	color: #666666;
+}
+
+img {
+	border: 8px solid #33CCCC;
+	border-radius: 90px;
+	margin: 0px 20px 40px 0px;
+	float: left;
+}
+
+h1 {
+	font-size: 35px;
+	color: #666666;
+	text-transform: uppercase;
+	margin: 45px 0 100px 0
+}
+
+nav {
+	 text-align: center;
+	 color: #666666;
+	 text-transform: uppercase;
+	 margin: 0px 0px 40px 0px;
+}
+
+a:visited {
+	color: #33CCCC;
+}
+
+a:link {
+	color: #006890
+}
+
+hr {
+	background-color: #33CCCC;
+	height: 2px;
+
+}
+
+h3.about {
+	float: right;
+	width: 240px;
+	margin-top: 40px;
+	text-transform: uppercase;
+}
+
+p.about {
+	width: 240px;
+	font-size: 14px;
+	float: right;
+	line-height: 20px;
+}
+
+h3.bio {
+	float: left;
+	width: 240px;
+	margin-top: 40px;
+	text-transform: uppercase;
+}
+
+p.bio {
+	width: 240px;
+	height: 400px;
+	font-size: 14px;
+	float: left;
+	line-height: 20px;
+}
+
+h3.experience {
+	text-transform: uppercase;
+	margin: 40px 0px 40px 0px;
+}
+
+p.experience {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+ul {
+	font-size: 14px;
+	line-height: 20px;
+}
+
+h3.interests {
+	text-transform: uppercase;
+	margin: 60px 0px 40px 0px;
+}
+
+p.interests {
+	font-size: 14px;
+}
+
+p.learnmore {
+	font-size: 14px;
+	margin-top: 60px;
+}
