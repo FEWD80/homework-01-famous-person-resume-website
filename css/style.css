@@ -1,0 +1,80 @@
+body {
+	background-color: #efefef;
+	margin: 0px;
+}
+h1 {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 68pt;
+	margin: 20px;
+	color: #663399;
+}
+nav {
+	text-align: center;
+	background-color: grey;
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	margin-right: 25px;
+	margin-left: 25px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14pt;
+}
+a:hover {
+	color: white;
+}
+p {
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	width: 40%;
+	margin: auto;
+}
+
+/*About*/
+a.external-link {
+	font-size: 12pt;
+	margin: 0px;
+	font-style: italic;
+}
+a.external-link:hover {
+	color: grey;
+}
+img {
+	width: 40%;
+	display: block;
+	text-align: center;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+p.external-link {
+	text-align: left;
+	font-family: 'Raleway', sans-serif;
+	width: 40%;
+	margin: auto;
+	margin-bottom: 25px;
+	margin-top: 10px;
+}
+
+/*Filmography*/
+img.portfolio {
+	width: 70%;
+	margin-top: 10px;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+	text-align: center;
+}
+li {
+	list-style-type: none;
+	display: inline-block;
+	width: 30%;
+}
+p.portfolio {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
