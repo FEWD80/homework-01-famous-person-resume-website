@@ -1,0 +1,73 @@
+body{
+	padding: 40px 20px;
+		font-family: sans-serif;
+	font-size: 18px;
+	border-top: 8px solid #79A6EA;
+	margin-top: 10px;
+	    color: #6C6C6C;
+} 
+
+
+body{
+	background: #79A6EA; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #79A6EA); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, #79A6EA); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #79A6EA;) /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #79A6EA; )/* Standard syntax */
+}
+
+hr.style1 {
+	border-top: 4px double #79A6EA;
+	text-align: center;
+}
+
+
+
+p.inline {
+    display: inline;
+}
+p.rectangle {
+	border: 1px solid black;
+	padding: 15px;
+	margin-top: 10px;
+    display: inline-block;
+}
+
+
+h1 {
+	color:dark-grey;
+	font-size: 70px; 
+	text-align: center;}
+
+nav {text-align: center;
+		margin-bottom: 20px;}
+nav a {color: #1E67D6;}
+
+img {width: 300px;
+float: right;
+border:5px solid #79A6EA;
+display: inline;
+padding: 5px;
+}
+
+.purple {color: purple;}
+.purple>li>a {color: blue;}
+
+.more+.extra {color: #ffffff;}
+
+ol ~ p {
+    background:#ffffff ;
+    padding: 1px 10px;
+    
+}
+#theonlyone {
+    color: #FFFFFF;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Courier New", Courier, monospace;
+    background: #A4C3F1;
+    padding: 7px;
+}
+
+
+
