@@ -1,0 +1,157 @@
+* {
+	background-color: #FFFFFF;
+	font-family: sans-serif;
+}
+
+body {
+	width: 800px;
+	margin: auto;
+}
+
+nav {
+	height: 5px;
+	width: 800px;
+	background-color: #000000;
+	display: inline-block;
+}
+
+/*formatting*/
+
+h1 {
+	color: gray;
+	float: left;
+	display: inline-block;
+	background-color: #FFFFFF;
+	font-size: 36px;
+	margin-bottom: 5px;
+	height: 36px;
+}
+
+h2 {
+	color: gray;
+	font-size: 20px;
+}
+
+h3 {
+	color: #000000;
+	font-size: 20px;
+}
+
+h4 {
+	color: gray;
+	margin: auto;
+	font-size: 36px;
+}
+
+h5 {
+	color: #000000;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-size: 25px;
+}
+
+ul li {
+	color: gray;
+	float: right;
+	display: inline-block;
+	padding: 27px 5px 5px 5px;
+	font-size: 18px;
+}
+
+p {
+	color: #000000;
+	font-size: 15px;
+	font-family: Georgia, Serif;
+}
+
+
+
+
+/*links*/
+
+a:link {
+	text-decoration: none;
+	color: gray;
+}
+
+a:visited {
+	text-decoration: none;
+	color: gray;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+
+
+/*id and classes*/
+
+.header {
+	height: 70px;
+	width: 800px;
+	background-color: #FFFFFF;
+	display: inline-block;
+	z-index: 2;
+}
+
+.left {
+    height: auto;
+    width: 300px;
+    background-color: #FFFFFF;
+    float: left;
+}
+
+.right {
+    height: auto;
+    width: 500px;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.footer {
+    height: 100px;
+    width: 800px;
+    background-color: #FFFFFF;
+    clear: both;
+}
+
+
+/*quote page specific*/
+
+.quote {
+	width: 800px;
+	height: auto;
+}
+
+
+.photoblock {
+	width: 200px;
+	height:100px;
+	background-color: gray;
+	display: inline-block;
+	float: left;
+} 
+
+.photoblank {
+	width: 100px;
+	height:100px;
+	background-color: gray;
+	display: inline-block;
+	float: left;
+} 
+
+/*i am god page specific*/
+
+#god {
+	border:20px solid #000000;
+}
+
+
