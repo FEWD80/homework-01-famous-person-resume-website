@@ -1,0 +1,47 @@
+
+body {
+  background: #FFE;
+  padding: 50px;
+}
+
+nav { 
+	 text-align: center;
+
+}
+
+hr{
+	height: 15px solid;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-size: 72px;
+}
+
+h3 {
+	color:navy;
+	font-size: 35px;
+	margin-left: 20px;
+}
+
+li{
+	font-family: Gillsans;
+	font-size: 20px;
+}
+
+i{
+	font-size: 20px;
+}
+
+img.resize{
+	width: 300px;
+	height: 300px;
+	padding: 100px;
+	float: right;
+	
+	}
+
+
+
+
