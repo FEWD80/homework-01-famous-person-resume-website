@@ -1,0 +1,47 @@
+body {
+	font-family: sans-serif;
+	align: center;
+}
+
+h1 {
+	background: white;
+	text-align: center;
+	padding: 15px;
+}
+
+p {
+	color: black;
+	margin-bottom: 10px;
+	font-size: 12px
+}
+
+p.main {
+	margin-bottom: 15px;
+}
+
+code {
+	color: black;
+	background: white;
+	padding: 2px 5px;
+	border: 1px solid black;
+}
+
+img {
+	padding: 50px;
+	align:center;
+}
+
+nav {
+	text-align: center;
+	color: black;
+}
+
+hr {
+	height: 7px;
+	color: black;
+	background: black;
+}
+
+h3 {
+	padding: 15px;
+}
