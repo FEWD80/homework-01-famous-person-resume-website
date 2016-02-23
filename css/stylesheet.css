@@ -1,0 +1,88 @@
+header {
+	background-image: url(../about_me/misty81.jpg);
+	background-size: cover;
+	height: 500px;
+	color: white;
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 100px
+	color: white;
+	text-transform: uppercase;
+	padding: 40px 0px 0px 40px;
+	margin: 40px;
+	line-height: 1.25;
+	text-shadow: 2px 2px 5px black;
+}
+
+body {
+	text-align: center;
+}
+
+strong.menu {
+	color: white;
+	text-decoration: line-through;
+	font-weight: normal;
+}
+
+a.menu {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.content {
+	font-family: sans-serif;
+	color: #8b8d8e;
+	margin: 30px;
+	padding-left: 40px;
+}
+
+h2.content {
+	text-transform: uppercase;
+	text-align: left;
+	display: block;
+	float: left;
+	width: 120px;
+	line-height: 1.25;
+	margin: 0px 30px 0px 30px;
+	padding-right: 30px;
+}
+
+p.content, ul.content {
+	display: block;
+	float: left;
+	width: 615px;
+	text-align: justify;
+	padding-right: 40px;
+	border-left: solid 2px #8b8d8e;
+}
+
+li.content {
+	padding-bottom: 9px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.content > strong {
+	font-weight: normal;
+	font-style: italic;
+	color: #99CDC9;
+}
+
+a.contentlink {
+	float: right;
+	font-style: italic;
+	color: ;
+	text-decoration: none;
+}
+
+nav.footer, a.footer {
+	display: inline-block;
+	background-size: cover;
+	color: #99CDC9;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
