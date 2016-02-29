@@ -4,15 +4,28 @@
 }
 
 body {
-	width: 800px;
-	margin: auto;
+	margin: 0 auto;
 }
 
+.container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+/*ORIGINALLY USED NAV RATHER THAN CREATE A CLASS
 nav {
 	height: 5px;
 	width: 800px;
 	background-color: #000000;
 	display: inline-block;
+}*/
+
+.line {
+  height: 5px;
+  width: 800px;
+  background: black;
+  margin: 10px 0;
+  display: inline-block;
 }
 
 /*formatting*/
@@ -52,7 +65,7 @@ h5 {
 }
 
 ul li {
-	color: gray;
+	color: black;
 	float: right;
 	display: inline-block;
 	padding: 27px 5px 5px 5px;
@@ -70,7 +83,7 @@ p {
 
 /*links*/
 
-a:link {
+/*a:link {
 	text-decoration: none;
 	color: gray;
 }
@@ -78,15 +91,18 @@ a:link {
 a:visited {
 	text-decoration: none;
 	color: gray;
+}*/
+
+a {
+	text-decoration: none;
+	color: gray;
 }
 
 a:hover {
-	text-decoration: none;
 	color: #000000;
 }
 
 a:active {
-	text-decoration: none;
 	color: #000000;
 }
 
@@ -100,6 +116,11 @@ a:active {
 	background-color: #FFFFFF;
 	display: inline-block;
 	z-index: 2;
+}
+
+.bold {
+  color: black;
+  font-weight: bold;
 }
 
 .left {
@@ -147,6 +168,12 @@ a:active {
 	display: inline-block;
 	float: left;
 } 
+
+.socialm {
+	width: 50px;
+	height: 50px;
+}
+
 
 /*i am god page specific*/
 
