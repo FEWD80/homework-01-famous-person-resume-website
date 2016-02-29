@@ -17,14 +17,14 @@ body.page2 {
 
 nav.page1 {
 	text-align: right;	
-	border-top:#6dd46d;
+	border-top-color:#6dd46d;
 	font-size: 12px;
 	padding-right: 70px;
 }
 
 nav.page2 {
 	text-align: right;	
-	border-top:#6dd46d;
+	border-top-color:#6dd46d;
 	font-size: 12px;
 	padding-right: 70px;
 }
@@ -96,9 +96,4 @@ img.page2_2 {
 	width: 800px;
 }
 
-img.page2_3 {
-	float: center;
-	height: 800px;
-	width: 800px;
-}
 
