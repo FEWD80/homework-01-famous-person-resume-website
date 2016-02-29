@@ -1,3 +1,7 @@
+body {
+	text-align: center;
+}
+
 header {
 	background-image: url(../about_me/misty81.jpg);
 	background-size: cover;
@@ -9,13 +13,9 @@ header {
 	color: white;
 	text-transform: uppercase;
 	padding: 40px 0px 0px 40px;
-	margin: 40px;
+	margin: 40px 0px 40px 0px;
 	line-height: 1.25;
 	text-shadow: 2px 2px 5px black;
-}
-
-body {
-	text-align: center;
 }
 
 strong.menu {
@@ -72,7 +72,7 @@ li.content {
 a.contentlink {
 	float: right;
 	font-style: italic;
-	color: ;
+	color: #99CDC9;
 	text-decoration: none;
 }
 
