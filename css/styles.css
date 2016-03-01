@@ -1,12 +1,9 @@
 body {
-	
 	background-color: #9BB4CE;
 	color: black;
 	text-align: center;
-	font-family: helvetica;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
-
 }
 
 img {
@@ -34,14 +31,12 @@ h1 {
 }
 
 h3 {
-	
 	margin: 20px 50px 10px 50px;
 	color: #9BB4CE;
 	font-family: 'Delius Unicase', cursive;
 }
 
 ul {
-
 	list-style: square;
 	text-align: left;
 }
@@ -56,7 +51,6 @@ section img {
 }
 
 section {
- 
 	background-color: white;
 	color: black;
 	padding: 50px;
