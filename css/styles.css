@@ -1,0 +1,33 @@
+*{
+	background-color: #EEB422;
+}
+
+body {
+	background-position: center;
+
+}
+
+h1 {
+	text-align:center;
+	font-family: futura;
+	color: white;
+}
+
+strong {
+	font-family: trebuchet;
+	text-align: center;
+}
+
+nav{
+	font-family: trebuchet;
+	text-align: center;
+}
+
+img {
+	padding: 10px;
+	border: 1px solid #222222;
+}
+
+.albums{
+	font-family: trebuchet;
+}
