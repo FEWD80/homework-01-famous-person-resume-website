@@ -34,7 +34,7 @@ img.action  {
 		float: right;
 		width: 450px;
 		height: 550px;
-		margin: 0 50px 0 75px;
+		margin: 50px 50px 0 75px;
 }
 
 img.main {	
@@ -72,14 +72,19 @@ p.pexperience {
 		color: red;
 }
 
-hr.hr {
-	margin: 30px 0 50px 0 ;
+.hr {
+	margin: 260px 0 10px 0 ;
 }
 
 div {
 	line-height: 2.1;
+	margin-top: 90px;
 }
 
 footer.experience {
-	margin: -40px 0 0 0 ;
+	margin: 10px 0 0 0 ;
+}
+
+.hr-resuume {
+	margin: 5px 0  0 0;
 }
