@@ -1,44 +1,40 @@
 body {
-
-
   background-color: black;
   font-color: white;
   font-family: serif;
   font-size: 18px;
   border-top: 5px solid #222222;
-  margin-top: 20px;
-  margin-left: 70px;
+  margin: 20px 0px 0px 70px;
 }
 
 h1{
-
   color: white;
   font-style: italic;
   font-size: 50px;
   text-align: center;
 }
 
-span.bold{
-
-  font-weight: bold;
-  font-size: 65px;
+.bold{
+ 
+  font-size: 70px;
 }
 
 h2 {
-
   color: red;
 }
 
 p{
-
   margin-right: 60px;
   color:white;
-
 }
 
 p.other{
-
   margin-right: 0px;
+  display: inline;
+}
+
+.information {
+  padding-top: 15px;
 }
 
 h4{
@@ -49,7 +45,6 @@ text-align: center;
 }
 
 h5{
-
   font-color: white;
 }
 
@@ -59,17 +54,12 @@ img {
   margin-left: 40px;
   }
 
-  img.2 {
-
+  .image2 {
     margin-left: 0px;
   }
 
-  nav {
-    float-left;
-  }
 
   ul{
-
     color: white;
   }
 
