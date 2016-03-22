@@ -20,50 +20,60 @@ a:hover {
 
 }
 
-h1 {
-	color: white;
-	font-size: 60px;
-	position: absolute;
-	top: 210px;
-	padding-left: 60px;
-	line-height: 130%;
+.gollum {
+	background-image: url(http://vignette1.wikia.nocookie.net/lotr/images/3/31/580751_418602258175385_1601212863_n.jpg/revision/latest?cb=20120907014131);
+	background-size: cover;
+	height: 600px;
 }
 
-h3 {
+.gollum h1 {
 	color: white;
 	font-size: 70px;
-	position: absolute;
-	top: 750px;
-	margin: 40px;
-	background-position: right;
-}
-
-.gollum {
-	position: relative;
-	width: 100%;
+	padding-left: 40px;
+	padding-top: 100px;
+	line-height: 110%;
+	margin: 0;
 }
 
 .gollumtwo {
-	position: relative;
-	width: 100%;
+	background-image: url(http://orig00.deviantart.net/0737/f/2013/162/f/1/the_one_ring_by_mircore-d68o1io.png);
+	background-size: cover;
+	height: 600px;
 }
 
-.list {
-	margin: 30px;
+.gollumtwo h3 {
+	padding: 90px;
 	color: white;
-	text-align: left;
-	position: absolute;
-	top: 1600px;
-	line-height: 130%;
+	font-size: 70px;
+	text-align: right;
+	margin: 0;
 }
 
-h3.list {
-	margin: 20px;
+.gollumthree {
+	background-image: url(http://images2.fanpop.com/image/photos/14000000/Gollum-Smeagol-smeagol-gollum-14076884-960-403.jpg);
+	background-size: cover;
+	height: 600px;
+	padding-left: 40px
+}
+
+.gollumthree h3 {
+	padding-top: 80px;
+	padding-bottom: 60px;
 	color: white;
 	font-size: 70px;
 	text-align: left;
-	position: absolute;
-	top: 1500px;	
+	margin: 0;
+}
+
+.gollumthree ul {
+	color: white;
+	margin: 0;
+}
+
+.gollumthree li {
+	color: white;
+	padding-bottom: 10px;
+	margin: 0;
 }
 
 .rings {
