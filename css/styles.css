@@ -10,30 +10,30 @@ body {
 a {
   font-weight: bold;
   color: #05080C;
-	}
+}
 
 ul {
   list-style: square;
-	}
+}
 
 ul p {
   color: #05080C;
-	}
+}
 
 li {
 	list-style: square;
   color: #05080C;
-	}
+}
 
 strong {
   color: #030609;
   font-style: italic;
-	}
+}
 
 nav {
   color: #222222;
   text-align: center;
-	}
+}
 
 
 h1 {
@@ -43,7 +43,7 @@ h1 {
 	text-transform: uppercase;
 	text-align: center;
 	margin: 0px;
-	}
+}
 
 th, td {
     text-align: center;
@@ -58,7 +58,7 @@ h3 {
 	margin: 0px;
 	color: #030609;
 	text-align: center;
-	}
+}
 
 p {
 	font-family: Georgia, serif;
@@ -70,35 +70,31 @@ p {
 	padding-right: 90px;
 	color: #05080C;
 	text-align: center;
-	}
+}
 
 .p2 {
 	font-family: Georgia, serif;
-	margin-top: 0;
-	margin-bottom: 7px;
-	margin-right: 0px;
-	margin-left: 0px;
+	margin: 0 0 7px 0;
 	padding-left: 60px;
 	padding-right: 60px;
 	color: #05080C;
 	text-align: center;
 	background: black;
-	}
+}
 
 hr {
 	border: none;
 	border-top: 1px solid #222222;
 	margin: 30px 0;
-	}
+}
 
 img {
   padding-bottom: 0px;
   margin: 30px;
-  }
+}
 
-  img[alt="Profile"] {
+img[alt="Profile"] {
   height: 616px;
   width: 800px;
-
 }
 
